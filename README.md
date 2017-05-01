@@ -4,10 +4,11 @@
 
 **Vladimir Poliakov:**
 
-* Created modes application scenarios
+* Added obstacle detection application scenario
+* Created  template for requirements diagram
 
 ### TODO
 
 **Vladimir Poliakov**
 
-- [ ] Add obstacle avoidance application scenario
+- [ ] Fullfil requirement template
