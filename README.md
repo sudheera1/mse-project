@@ -10,4 +10,4 @@
 
 **Vladimir Poliakov**
 
-[ ] Add obstacle avoidance application scenario
+- [ ] Add obstacle avoidance application scenario
