@@ -6,6 +6,7 @@
 
 * Added obstacle detection application scenario
 * Created  template for requirements diagram
+* Fulfilled Active Support requirements diagram
 
 ### TODO
 
